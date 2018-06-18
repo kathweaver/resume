@@ -1,0 +1,13 @@
+body
+{
+    background-color: aliceblue;
+    color: rgb(46, 40, 40);
+}
+h1
+{
+    text-align: center;
+}
+li
+{
+    list-style-type: none;
+ }
